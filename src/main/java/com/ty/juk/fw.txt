@@ -1,0 +1,29 @@
+EJB-Over weight application
+
+light weight application runs on supporting software/enviranment
+
+Interface21-is light weight
+renamed interface21 as spring
+Red jons and it's team
+it helps us to creating the objects
+
+in spring we have
+1)continer->4
+-->insted of using IS-A we can use HAS-A
+use configuration
+  to configure/create the object....
+POJO class-->class doesn't inherate any calss..
+======================================================
+IOC
+      Core-->BeanFactory(I)
+      J2EE-->ApplicationContext(I) else ConfigurableApplicationContext(I) extends ApplicationContext
+WEB Container(MVC)
+
+.xml-->
+-->xsd.xml and 
+<beans>
+	<bean class="FQCN" id="RefVar"></bean>
+</beans>
+
+Driver class is a class which have main()
+
